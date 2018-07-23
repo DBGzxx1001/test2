@@ -56,7 +56,7 @@
                 <artifactId>guns-core</artifactId>
                 <version>${guns.version}</version>
             </dependency>
-
+ 
             <dependency>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-dependencies</artifactId>
